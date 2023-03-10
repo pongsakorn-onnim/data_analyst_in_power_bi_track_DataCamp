@@ -4,27 +4,27 @@ This portfolio showcases my skills in Power BI through exercises completed from 
 
 ## Exercises Included
 
-[Exercise 1: Data Cleaning and Transformation](Link to Exercise 1 folder)<br>
+[Course 1 Introduction to Power BI](Link to Exercise 1 folder)<br>
 Description: In this exercise, I loaded multiple datasets in the Dataview, built a data model to understand the relationships between tables in the Model view, and created bar graph and interactive map visualization in the Report view. Also, I practiced using Power Query Editor to prep data for analysis.<br>
-Screenshots:<br>
-[Screenshot 1: Customer reviews dataset before cleaning](Link to Screenshot 1)<br>
-[Screenshot 2: Customer reviews dataset after cleaning](Link to Screenshot 2)<br>
+Description:<br>
 
-[Exercise 2: Exploratory Data Analysis](Link to Exercise 2 folder)<br>
-[Exercise 3: Basic Visualization Techniques](Link to Exercise 3 folder)<br>
-[Exercise 4: Advanced Visualization Techniques](Link to Exercise 4 folder)<br>
-[Exercise 5: Data Modeling](Link to Exercise 5 folder)<br>
-[Exercise 6: Advanced DAX Functions](Link to Exercise 6 folder)<br>
-[Exercise 7: Power Query Functions](Link to Exercise 7 folder)<br>
-[Exercise 8: Creating Interactive Dashboards](Link to Exercise 8 folder)<br>
-[Exercise 9: Designing for Mobile Devices](Link to Exercise 9 folder)<br>
-[Exercise 10: Building a Sales Report](Link to Exercise 10 folder)<br>
-[Exercise 11: Building a Customer Analysis Dashboard](Link to Exercise 11 folder)<br>
-[Exercise 12: Building a Procurement Analysis Dashboard](Link to Exercise 12 folder)<br>
-[Exercise 13: Building a Human Resources Dashboard](Link to Exercise 13 folder)<br>
-[Exercise 14: Building a Marketing Dashboard](Link to Exercise 14 folder)<br>
-[Exercise 15: Building a Finance Dashboard](Link to Exercise 15 folder)<br>
-[Exercise 16: Building a Real Estate Analysis Dashboard](Link to Exercise 16 folder)<br>
+[Course 2 Introduction to DAX in Power BI](Link to Exercise 2 folder)<br>
+[Course 3 Data Visualization in Power BI](Link to Exercise 3 folder)<br>
+[Course 4 Case Study Analyzing Customer Churn in Power BI](Link to Exercise 4 folder)<br>
+[Course 5 Data Preparation in Power BI](Link to Exercise 5 folder)<br>
+[Course 6 Data Transformation in Power BI](Link to Exercise 6 folder)<br>
+[Course 7 Data Modeling in Power BI](Link to Exercise 7 folder)<br>
+[Course 8 Intermediate Data Modeling in Power BI](Link to Exercise 8 folder)<br>
+[Course 9 Case Study HR Analytics in Power BI](Link to Exercise 9 folder)<br>
+[Course 10 DAX Functions in Power BI](Link to Exercise 10 folder)<br>
+[Course 11 Intermediate DAX in Power BI](Link to Exercise 11 folder)<br>
+[Course 12 User-Oriented Design in Power BI](Link to Exercise 12 folder)<br>
+[Course 13 Exploratory Data Analysis in Power BI](Link to Exercise 13 folder)<br>
+[Course 14 Trend Analysis in Power BI](Link to Exercise 14 folder)<br>
+[Course 15 Reports in Power BI](Link to Exercise 15 folder)<br>
+[Course 16 Report Design in Power BI](Link to Exercise 16 folder)<br>
+[Course 17 Data Connections in Power BI](Link to Exercise 17 folder)<br>
+[Course 18 Deploying and Maintaining Assets in Power BI](Link to Exercise 18 folder)<br>
 
 ## Tools Used
 - Power BI
