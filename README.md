@@ -3,11 +3,13 @@
 This portfolio showcases my skills in Power BI through exercises completed from the Data Analyst in Power BI track on DataCamp. The exercises cover a range of topics, including data cleaning, data visualization, and creating interactive dashboards.
 
 ## Skills Demonstrated
-- Data cleaning and transformation
-- Data modeling
-- Data visualization
+- Data importing, data cleaning, data manipulation, and data visualization
+- Data preparation, data transformation, and Data modeling.
+- Power Query   
+- DAX functions
+- Exploratory Data Analysis, and Trend Analysis
+- Report Design
 - Creating interactive dashboards
-- Understanding business requirements and translating them into analytical solutions
 
 ## Courses Included
 
