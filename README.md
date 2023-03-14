@@ -64,8 +64,8 @@ This portfolio showcases my Power BI skills, which I developed through completin
 [Course 16 Report Design in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course16%20Report%20Design%20in%20Power%20BI.pbix)<br>
 **Topics**: Enhancing visual and improving engagement with DAX, progressive disclosure, custom theme, and design for mobile devices
 
-Course 17 Data Connections in Power BI<br>
+**Course 17 Data Connections in Power BI**<br>
 **Topics**: Data connections, database connections, data source settings, parameter and incremental refresh, and identifying data importing processes issues with M Language.
 
-Course 18 Deploying and Maintaining Assets in Power BI<br>
+**Course 18 Deploying and Maintaining Assets in Power BI**<br>
 **Topics**: Workspaces and applications, creating workspaces and apps, securing content, and enabling users.
