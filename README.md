@@ -43,10 +43,10 @@ This portfolio showcases my Power BI skills, which I developed through completin
 **Topics**: Data modeling and Exploratory Data Analysis, analyzing demoographics and performance, and creating report.
  
 
-[Course 10 DAX Functions in Power BI]([Link to Exercise 10 folder](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course%2010%20DAX%20Functions%20in%20Power%20BI.pbix))<br>
+[Course 10 DAX Functions in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course%2010%20DAX%20Functions%20in%20Power%20BI.pbix))<br>
 **Topics**: Setting up data models with DAX, Dax, and Measures, filtering and counting with DAX, and iterating functions.
 
-[Course 11 Intermediate DAX in Power BI]([Link to Exercise 11 folder](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course%2011%20Intermediate%20DAX%20in%20Power%20BI.pbix))<br>
+[Course 11 Intermediate DAX in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course%2011%20Intermediate%20DAX%20in%20Power%20BI.pbix))<br>
 **Topics**: Logical functions, row-level security, table manipulation functions, and time intelligence functions.
 
 [Course 12 User-Oriented Design in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course12%20User-Oriented%20Design%20in%20Power%20BI.pbix)<br>
