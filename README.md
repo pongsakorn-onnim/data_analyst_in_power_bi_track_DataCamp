@@ -22,7 +22,7 @@ This portfolio showcases my Power BI skills, which I developed through completin
 **Topics**: DAX, caculated column and measures, context in DAX formulas, DAX measures, date and time functions, and quick measures.<br>
 
 [Course 3 Data Visualization in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course3%20Data%20Visualization%20in%20Power%20BI.pbix)<br>
-**Topics**: Table and scatter charts, bar charts and small multiples, combining charts and custom visuals shares, gauges, and KPIs.
+**Topics**: Table and scatter charts, bar charts and small multiples, combining charts and custom visuals, shares, gauges, and KPIs.
 
 [Course 4 Case Study Analyzing Customer Churn in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course4%20Case%20Study%20Analyzing%20Customer%20Churn%20in%20Power%20BI.pbix)<br>
 **Topics**: Exploratory Analysis, investigating churn patterns, visualizing the analysis.
