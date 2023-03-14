@@ -16,7 +16,7 @@ This portfolio showcases my Power BI skills, which I developed through completin
 ## Courses Included
 
 [Course 1 Introduction to Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course1%20Introduction%20to%20Power%20BI.pbix)<br> 
-**Topic**: Power BI features, transforming, visulizing , and filtering data.
+**Topic**: Power BI features, transforming data, visualizing data, and filtering data.
 
 [Course 2 Introduction to DAX in Power BI](https://github.com/pongsakorn-onnim/data_analyst_in_power_bi_track_DataCamp/blob/main/Course2%20Introduction%20to%20DAX%20in%20Power%20BI.pbix)<br>
 **Topics**: DAX, caculated column and measures, context in DAX formulas, DAX measures, date and time functions, and quick measures.<br>
